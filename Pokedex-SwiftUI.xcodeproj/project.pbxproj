@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BB0222192A30806800AB6059 /* PokeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0222182A30806800AB6059 /* PokeModel.swift */; };
 		BBFAB6202A30785500C57586 /* Pokedex_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBFAB61F2A30785500C57586 /* Pokedex_SwiftUIApp.swift */; };
 		BBFAB6222A30785500C57586 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBFAB6212A30785500C57586 /* ContentView.swift */; };
 		BBFAB6242A30785500C57586 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BBFAB6232A30785500C57586 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BB0222182A30806800AB6059 /* PokeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokeModel.swift; sourceTree = "<group>"; };
 		BBFAB61C2A30785500C57586 /* Pokedex-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pokedex-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBFAB61F2A30785500C57586 /* Pokedex_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pokedex_SwiftUIApp.swift; sourceTree = "<group>"; };
 		BBFAB6212A30785500C57586 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				BBFAB6212A30785500C57586 /* ContentView.swift */,
 				BBFAB6232A30785500C57586 /* Assets.xcassets */,
 				BBFAB6252A30785500C57586 /* Preview Content */,
+				BB0222182A30806800AB6059 /* PokeModel.swift */,
 			);
 			path = "Pokedex-SwiftUI";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB0222192A30806800AB6059 /* PokeModel.swift in Sources */,
 				BBFAB6222A30785500C57586 /* ContentView.swift in Sources */,
 				BBFAB6202A30785500C57586 /* Pokedex_SwiftUIApp.swift in Sources */,
 			);
